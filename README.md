@@ -16,6 +16,7 @@ I am aspiring .NET developer and I am hard working upon my programming skills. I
 * HTML/ CSS/ JS (Type Script, Angular, React, VueJS)
 * Unit Testing (xUnit) 
 * ASP.NET 
+* Entity Framework
 
 and there are many, many more items to learn, but these are the ones that I will be focusing in the nearest future ✌️
 <!--
